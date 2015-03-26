@@ -33,6 +33,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Tomasik, Przemysław
 1. Wiergowski, Paweł
 
+[Martyna Krajnik] (http://mkrajnik.github.io/index.html), [repozytorium](https://github.com/mkrajnik/Techniki-Internetowe)
 
 ## Egzamin
 
