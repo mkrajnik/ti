@@ -15,6 +15,10 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Jakubek, Daniel](http://kassszub.github.io/). [Notacje](https://github.com/kassszub/ti-md-ascii-web). L, P, MA
 1. [Kowalska Joanna](http://jkowalska.github.io). [Notacje](https://github.com/jkowalska/LabTI).
 1. [Krajnik, Martyna](http://mkrajnik.github.io/). [Repozytorium](https://github.com/mkrajnik/Techniki-Internetowe). L, P, MA
+//Dodalam czytelniejsze menu, tabelke z notacjami (odnosnik na stronie) i kilka web components.
+  http://mkrajnik.github.io/
+
+
 1. [Krzychowiec Rafał](http://stringhead.github.io/index.html). [Notacje](https://github.com/StringHead/Techniki-internetowe/blob/master/README.md). P, L, MA
 1. [Kupniewski, Rafał](http://rkupniewski.github.io/). Notacje. P, MA
 1. [Ponieważ Paweł](http://pponiewaz.github.io). [Notacje](https://github.com/pponiewaz/TI). L, P, MA
